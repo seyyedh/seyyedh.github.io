@@ -431,16 +431,16 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-publishing-my-article-in-the-arxiv",
+    },{id: "news-master-s-thesis-defense",
+          title: 'Master’s thesis defense',
+          description: "",
+          section: "News",},{id: "news-publishing-my-article-in-the-arxiv",
           title: 'Publishing my article in the arXiv',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-master-s-thesis-defense",
-          title: 'Master’s thesis defense',
+            },},{id: "news-i-received-my-ielts-certificate-sparkles-smiling-face-with-sunglasses",
+          title: 'I received my IELTS certificate. :sparkles: :Smiling Face with Sunglasses:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
