@@ -431,8 +431,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+    },{id: "news-publishing-my-article-in-the-archive",
+          title: 'Publishing my article in the archive',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
