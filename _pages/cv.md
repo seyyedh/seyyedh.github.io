@@ -5,6 +5,5 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: seyedhassan_yajadda_cvm.pdf # you can also use external links here
-description: 
-  sidebar: left
+sidebar: left
 ---
