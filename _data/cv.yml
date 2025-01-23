@@ -11,16 +11,16 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science
+      institution: Shahid Beheshti University, Tehran, Iran
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Computer Engineering
+        - GPA: 17.51
+        - title: A Novel Congestion Control Mechanism In Complex Networks Based On Reinforcement Learning
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Supervisor: DR. Farshad Safaei Semnani
+           
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
