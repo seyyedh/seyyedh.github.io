@@ -439,8 +439,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-received-my-ielts-certificate-sparkles-smiling-face-with-sunglasses",
-          title: 'I received my IELTS certificate. :sparkles: :Smiling Face with Sunglasses:',
+            },},{id: "news-i-received-my-ielts-certificate-sparkles-smilingfacewithsunglasses",
+          title: 'I received my IELTS certificate. :sparkles: :SmilingFacewithSunglasses:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
