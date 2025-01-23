@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received my IELTS certificate. :sparkles: :Smiling Face with Sunglasses:
+I received my IELTS certificate. :sparkles: :SmilingFacewithSunglasses:
